@@ -1,4 +1,4 @@
-# OpenSourceSW_Data-Science
+# OpenSW_Data-Science
 
 # dataset 출처
 https://dacon.io/competitions/official/235680/overview/description  
